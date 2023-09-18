@@ -1,3 +1,5 @@
+package org.example.homeworknr5;
+
 public class homework_nr5 {
     public static void main(String[] args) {
         int[] numbers = new int[100];
@@ -33,3 +35,4 @@ public class homework_nr5 {
         System.arraycopy(numbers, 0, copyNumbers, 0, numbers.length);
     }
 }
+

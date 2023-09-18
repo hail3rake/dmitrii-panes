@@ -1,3 +1,5 @@
+package org.example.homeworknr4;
+
 public class homework_nr4 {
     public static void main(String[] args) {
         // Код для класса Circle
@@ -40,3 +42,4 @@ class TemperatureConverter {
         return celsius * 9 / 5 + 32;
     }
 }
+
